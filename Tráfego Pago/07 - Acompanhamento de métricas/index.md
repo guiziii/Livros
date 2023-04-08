@@ -1,4 +1,5 @@
-O acompanhamento de métricas é uma das partes mais importantes de qualquer campanha de marketing digital. Isso ocorre porque as métricas são um indicador de quão eficaz é a campanha em alcançar seus objetivos e, portanto, permitem que os profissionais de marketing ajustem sua estratégia de acordo.
+
+7) O acompanhamento de métricas é uma das partes mais importantes de qualquer campanha de marketing digital. Isso ocorre porque as métricas são um indicador de quão eficaz é a campanha em alcançar seus objetivos e, portanto, permitem que os profissionais de marketing ajustem sua estratégia de acordo.
 
 Aqui estão algumas métricas importantes que podem ser acompanhadas para avaliar o desempenho da campanha:
 

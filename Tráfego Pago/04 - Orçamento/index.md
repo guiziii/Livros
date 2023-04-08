@@ -1,4 +1,5 @@
-Definir o orçamento adequado para uma campanha de tráfego pago é fundamental para garantir que você está alcançando seus objetivos de marketing sem gastar mais dinheiro do que o necessário. Aqui estão algumas dicas para ajudá-lo a definir o orçamento adequado para sua campanha de tráfego pago:
+
+4) Definir o orçamento adequado para uma campanha de tráfego pago é fundamental para garantir que você está alcançando seus objetivos de marketing sem gastar mais dinheiro do que o necessário. Aqui estão algumas dicas para ajudá-lo a definir o orçamento adequado para sua campanha de tráfego pago:
 
 Defina seus objetivos de negócios: Antes de definir um orçamento, é importante entender seus objetivos de negócios e de marketing. Pergunte a si mesmo o que você espera alcançar com a campanha de tráfego pago, como aumentar as vendas, gerar leads ou aumentar o reconhecimento da marca. Com base nesses objetivos, você pode definir um orçamento que se adeque às suas metas.
 

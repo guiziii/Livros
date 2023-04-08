@@ -1,4 +1,5 @@
-As palavras-chave são fundamentais em uma campanha de tráfego pago, pois são as palavras ou frases que as pessoas digitam nos mecanismos de busca quando procuram informações, produtos ou serviços relacionados ao seu negócio. A seguir estão algumas dicas para identificar as palavras-chave mais relevantes para a sua campanha e como usá-las em seus anúncios:
+
+5) As palavras-chave são fundamentais em uma campanha de tráfego pago, pois são as palavras ou frases que as pessoas digitam nos mecanismos de busca quando procuram informações, produtos ou serviços relacionados ao seu negócio. A seguir estão algumas dicas para identificar as palavras-chave mais relevantes para a sua campanha e como usá-las em seus anúncios:
 
 Identifique suas palavras-chave principais: Comece identificando as palavras-chave principais relacionadas ao seu negócio, produto ou serviço. Essas palavras-chave devem ser relevantes para o que você está oferecendo e serem as palavras-chave que os clientes em potencial estão procurando. Use ferramentas de pesquisa de palavras-chave, como o Google Keyword Planner, para ajudá-lo a encontrar palavras-chave relevantes.
 

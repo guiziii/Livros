@@ -1,4 +1,5 @@
-A otimização de campanhas é uma etapa importante para melhorar o desempenho dos anúncios e aumentar o retorno sobre o investimento em tráfego pago. Algumas técnicas comuns de otimização de campanhas incluem:
+
+8) A otimização de campanhas é uma etapa importante para melhorar o desempenho dos anúncios e aumentar o retorno sobre o investimento em tráfego pago. Algumas técnicas comuns de otimização de campanhas incluem:
 
 Definir objetivos claros: Antes de criar uma campanha, é importante definir o que se espera dela. O objetivo pode ser aumentar o tráfego do site, gerar mais leads, aumentar as vendas, etc. Definir objetivos claros ajuda a criar anúncios mais eficazes e a medir melhor o sucesso da campanha.
 

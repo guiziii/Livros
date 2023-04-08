@@ -1,4 +1,5 @@
-Tráfego pago é uma estratégia de marketing digital em que uma empresa paga por anúncios com o objetivo de atrair mais visitantes para seu site ou aumentar a visibilidade de sua marca na internet. Existem vários tipos de tráfego pago, incluindo:
+
+1) Tráfego pago é uma estratégia de marketing digital em que uma empresa paga por anúncios com o objetivo de atrair mais visitantes para seu site ou aumentar a visibilidade de sua marca na internet. Existem vários tipos de tráfego pago, incluindo:
 
 Anúncios em mecanismos de pesquisa (Search Ads): são os anúncios exibidos nos resultados de pesquisa do Google, Bing e outros motores de busca. Eles aparecem no topo ou na parte inferior da página de resultados de pesquisa e são exibidos para usuários que pesquisam palavras-chave relevantes para o anúncio.
 

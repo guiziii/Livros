@@ -1,4 +1,5 @@
-A segmentação é uma estratégia fundamental para os profissionais de marketing digital que desejam alcançar o público-alvo de forma mais eficaz e aumentar o ROI de suas campanhas. A segmentação envolve a divisão do público-alvo em grupos mais específicos com base em características compartilhadas, como interesses, idade, localização geográfica, comportamento de compra e outros dados demográficos.
+
+9) A segmentação é uma estratégia fundamental para os profissionais de marketing digital que desejam alcançar o público-alvo de forma mais eficaz e aumentar o ROI de suas campanhas. A segmentação envolve a divisão do público-alvo em grupos mais específicos com base em características compartilhadas, como interesses, idade, localização geográfica, comportamento de compra e outros dados demográficos.
 
 Aqui estão algumas maneiras comuns de segmentar o público-alvo:
 

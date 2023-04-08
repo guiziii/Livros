@@ -1,4 +1,5 @@
-As plataformas de publicidade são ferramentas essenciais para a promoção de negócios online, permitindo que as empresas alcancem um público maior e mais segmentado, aumentando a visibilidade e as conversões. Algumas das plataformas de publicidade mais populares incluem o Google Ads, Facebook Ads, Instagram Ads e LinkedIn Ads, cada uma com suas próprias características, público-alvo e formatos de anúncios.
+
+2) As plataformas de publicidade são ferramentas essenciais para a promoção de negócios online, permitindo que as empresas alcancem um público maior e mais segmentado, aumentando a visibilidade e as conversões. Algumas das plataformas de publicidade mais populares incluem o Google Ads, Facebook Ads, Instagram Ads e LinkedIn Ads, cada uma com suas próprias características, público-alvo e formatos de anúncios.
 
 O Google Ads é uma plataforma de publicidade online que permite que os anunciantes coloquem anúncios em mecanismos de pesquisa, incluindo o Google e seus parceiros de rede de pesquisa e display. O público-alvo do Google Ads são pessoas que estão buscando informações relacionadas ao seu produto ou serviço. Os anúncios no Google Ads são geralmente de texto ou imagem, exibidos nos resultados de pesquisa do Google ou em sites de parceiros da rede de display do Google.
 

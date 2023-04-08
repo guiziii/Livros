@@ -1,4 +1,5 @@
-Definir o público-alvo é um passo fundamental na elaboração de uma campanha de marketing efetiva. O público-alvo é o grupo de pessoas que tem maior potencial para se interessar pelo produto ou serviço oferecido, e que provavelmente terá mais facilidade em compreender e se identificar com a mensagem da campanha.
+
+3) Definir o público-alvo é um passo fundamental na elaboração de uma campanha de marketing efetiva. O público-alvo é o grupo de pessoas que tem maior potencial para se interessar pelo produto ou serviço oferecido, e que provavelmente terá mais facilidade em compreender e se identificar com a mensagem da campanha.
 
 Para identificar o público-alvo, é necessário realizar uma análise detalhada do mercado e do público em potencial. Algumas das informações que devem ser levantadas incluem:
 

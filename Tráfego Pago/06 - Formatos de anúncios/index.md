@@ -1,4 +1,4 @@
-Existem vários formatos de anúncios que podem ser usados em uma campanha de tráfego pago. A escolha do formato depende do objetivo da campanha e do tipo de público que você está tentando alcançar. Abaixo estão alguns dos formatos mais comuns de anúncios:
+6) Existem vários formatos de anúncios que podem ser usados em uma campanha de tráfego pago. A escolha do formato depende do objetivo da campanha e do tipo de público que você está tentando alcançar. Abaixo estão alguns dos formatos mais comuns de anúncios:
 
 Banners: Esses anúncios gráficos são exibidos em sites parceiros do Google, em formatos como retângulos, quadrados ou torres. Os banners podem incluir imagens, texto e botões de call-to-action.
 

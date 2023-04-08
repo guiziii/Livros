@@ -1,4 +1,5 @@
-Os testes A/B são uma estratégia importante para avaliar a eficácia dos anúncios e identificar as melhores estratégias. Esses testes envolvem a criação de duas versões diferentes de um anúncio e a distribuição aleatória desses anúncios para duas amostras diferentes do público-alvo. Os resultados são então comparados para determinar qual versão do anúncio é mais eficaz.
+
+10) Os testes A/B são uma estratégia importante para avaliar a eficácia dos anúncios e identificar as melhores estratégias. Esses testes envolvem a criação de duas versões diferentes de um anúncio e a distribuição aleatória desses anúncios para duas amostras diferentes do público-alvo. Os resultados são então comparados para determinar qual versão do anúncio é mais eficaz.
 
 Aqui estão alguns passos para realizar testes A/B eficazes:
 
